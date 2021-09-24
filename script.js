@@ -2,7 +2,7 @@
 
 function openNav() {
   
-  document.getElementById("Sidenav").style.width = "250px";
+  document.getElementById("Sidenav").style.width = "200px";
 }
 
 function closeNav() {
