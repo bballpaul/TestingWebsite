@@ -5,6 +5,12 @@ h1 {
   text-align: center;
 }
 
+p {
+  text-align: center;
+  font-decoration: italic;
+}
+
+
 
 .nav {
   height: 100%;
