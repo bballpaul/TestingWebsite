@@ -45,3 +45,13 @@ p {
   font-size: 36px;
   margin-left: 50px;
 }
+
+.links a {
+  color: white
+}
+.links a:hover {
+  color:white
+}
+.links a:visited {
+  color: white
+}
